@@ -21,6 +21,7 @@ namespace WpfApp8
     public partial class MainWindow : Window
     {
         string test = "Hello";
+        int test2 = 20;
         public MainWindow()
         {
             InitializeComponent();
